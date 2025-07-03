@@ -1,1 +1,1 @@
-print("Wassup Buddy!! v9")
+print("Student at Alnafi")
